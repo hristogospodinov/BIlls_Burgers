@@ -11,6 +11,9 @@ public class Item {
     }
 
     public String getName() {
+        if (type.equals("DRINK") || type.equals("SIDE")) {
+            return size + " " + name;
+        }
         return name;
     }
 
