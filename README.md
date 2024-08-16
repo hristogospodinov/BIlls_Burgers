@@ -1,6 +1,6 @@
 The purpose of this challenge is to showcase the usage of all OOP principles in a finalized project structure.
 
-                                                        **Bill's Burgers**
+  **Bill's Burgers**
 
 Program to create hamburger meals, that consist of 3 items - 1 hamburger, 1 drink and 1 side dish.
 
