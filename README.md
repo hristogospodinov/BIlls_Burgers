@@ -6,10 +6,10 @@ Program to create hamburger meals, that consist of 3 items - 1 hamburger, 1 drin
 
 The basic meal order is the most common one - it won't take any arguments. Within it will be included a **regular** burger, **small** coke and fries.
 
-Each of the three meal components (burger/drink/side) have the following attributes:
-*Drink - Name, type, size and price (different for each size)
-*Side - Name, type and price
-*Burger - Name, type, price and up to 3 toppings
+Each of the three meal components (burger/drink/side) have the following attributes:\n
+*Drink - Name, type, size and price (different for each size)\n
+*Side - Name, type and price\n
+*Burger - Name, type, price and up to 3 toppings\n
 
 The burger constructor should include type and price.
 Extra toppings are added and priced.
