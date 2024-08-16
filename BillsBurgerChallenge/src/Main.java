@@ -5,5 +5,8 @@ public class Main {
         coke.printItem();
         coke.setSize("LARGE");
         coke.printItem();
+
+        Item avocado = new Item("Topping", "avocado", 1.50);
+        avocado.printItem();
     }
 }
