@@ -10,7 +10,7 @@ Each of the three meal components (burger/drink/side) have the following attribu
 
 *Drink - Name, type, size and price (different for each size)
 
-*Side - Name, type and price
+*Side - Name, type, size and price
 
 *Burger - Name, type, price and up to 3 toppings
 
