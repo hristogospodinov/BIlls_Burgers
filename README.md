@@ -25,7 +25,8 @@ Encapsulation - MealOrder will hide some of the implementation details for Item 
 
 Class diagram
 
-![Class diagram](https://github.com/user-attachments/assets/624a176a-2c54-44cf-8e90-a6f0f1816440)
+![Class diagram (1)](https://github.com/user-attachments/assets/3bd657ca-fbf0-4aed-9f57-a55013309d15)
+
 
 *Bonus - Deluxe Burger Bonus - it has a set price on the burger and can have any type of extra toppings, up to a total of 5 toppings.
 
